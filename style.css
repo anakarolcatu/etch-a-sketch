@@ -58,3 +58,19 @@ button:hover {
     opacity: 0.1;   
     outline: 1px solid #ccc;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    width: 100%;
+    background-color: #a8dadc;
+    color: #264653;
+    margin-top: 50px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #61a5ad;
+}
